@@ -1,7 +1,3 @@
-Here’s a sample README file for your GitHub repository:
-
----
-
 # Face Detection API using Flask, OpenCV, and Haar Cascades
 
 This is a simple Flask-based web service that detects faces in an image. The app can process images either from a file or a URL and returns the coordinates of any detected faces using OpenCV's pre-trained Haar Cascade classifier.
